@@ -1,2 +1,4 @@
 # skr-hello-world
-Just a test Repository
+
+Cant leave without line 1
+Is JavaScript the future of coding?
